@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5863f7b-b8e6-4718-9df3-1f27cdac488d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/vue-quill-editor/vue-quill-editor/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-quill-editor/vue-quill-editor/src/components/CustomForm.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-quill-editor/vue-quill-editor/src/components/CustomFormItem.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-quill-editor/vue-quill-editor/src/components/CustomInput.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-quill-editor/vue-quill-editor/src/mixin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-quill-editor/vue-quill-editor/src/views/ElementForm.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-svg/src/assets/svg/empty.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-svg/src/assets/svg/undraw_empty_xct9.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-svg/src/components/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-svg/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-svg/vue.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/Vue.set.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuex-demo/util.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-VCharts/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/vue-VCharts/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-VCharts/node_modules/echarts-amap/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue-VCharts/node_modules/echarts-amap/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-VCharts/node_modules/echarts-liquidfill/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue-VCharts/node_modules/echarts-liquidfill/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-VCharts/node_modules/echarts-wordcloud/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue-VCharts/node_modules/echarts-wordcloud/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-VCharts/node_modules/echarts/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue-VCharts/node_modules/echarts/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-VCharts/node_modules/i/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue-VCharts/node_modules/i/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-VCharts/node_modules/numerify/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue-VCharts/node_modules/numerify/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-VCharts/node_modules/utils-lite/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue-VCharts/node_modules/utils-lite/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-VCharts/node_modules/v-charts/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue-VCharts/node_modules/v-charts/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-VCharts/node_modules/zrender/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue-VCharts/node_modules/zrender/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-froala-wysiwyg/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue-froala-wysiwyg/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-froala-wysiwyg/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue-froala-wysiwyg/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-froala-wysiwyg/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-froala-wysiwyg/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-froala-wysiwyg/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-froala-wysiwyg/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-froala-wysiwyg/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-froala-wysiwyg/src/views/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-froala-wysiwyg/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/vue-froala-wysiwyg/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-quill-editor/vue-quill-editor/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-quill-editor/vue-quill-editor/.eslintrc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-quill-editor/vue-quill-editor/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-quill-editor/vue-quill-editor/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-quill-editor/vue-quill-editor/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-quill-editor/vue-quill-editor/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-quill-editor/vue-quill-editor/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-quill-editor/vue-quill-editor/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-quill-editor/vue-quill-editor/src/views/About.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-quill-editor/vue-quill-editor/src/views/About.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-quill-editor/vue-quill-editor/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-quill-editor/vue-quill-editor/src/views/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-svg/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue-svg/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-svg/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-svg/src/components/HelloWorld.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-svg/src/views/About.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-svg/src/views/About.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-svg/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/vue-svg/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-vuex-demo/vuex-demo/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-vuex-demo/vuex-demo/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-vuex-demo/vuex-demo/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-vuex-demo/vuex-demo/src/components/HelloWorld.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-vuex-demo/vuex-demo/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-vuex-demo/vuex-demo/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuex-demo/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vuex-demo/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuex-demo/src/views/About.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vuex-demo/src/views/About.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuex-demo/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vuex-demo/src/views/Home.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/vue-froala-wysiwyg" />
+  </component>
+  <component name="ProjectId" id="1m3IEQ9UaACyoO4KRMDZMvVqDgH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager" selected="npm.serve (1)">
+    <configuration name="serve (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/vue-froala-wysiwyg/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="serve" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/vue-demo/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.serve (1)" />
+        <item itemvalue="npm.serve" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5863f7b-b8e6-4718-9df3-1f27cdac488d" name="Default Changelist" comment="" />
+      <created>1608715735404</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608715735404</updated>
+      <workItem from="1608715737251" duration="352000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1899" height="285" key="GridCell.Tab.0.bottom" timestamp="1608716184902">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1608716184902" />
+    <state width="1899" height="285" key="GridCell.Tab.0.center" timestamp="1608716184902">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1608716184902" />
+    <state width="1899" height="285" key="GridCell.Tab.0.left" timestamp="1608716184902">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1608716184902" />
+    <state width="1899" height="285" key="GridCell.Tab.0.right" timestamp="1608716184902">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1608716184902" />
+  </component>
+</project>
